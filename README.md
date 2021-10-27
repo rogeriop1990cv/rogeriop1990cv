@@ -11,6 +11,11 @@
 <div size='20px'> Hi! My name is Rogerio P. Da Silva. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fraitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=radical">
+</div>
+
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -42,12 +47,6 @@
 
 ![Metrics](https://metrics.lecoq.io/rogeriop1990cv?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 <br>
-<hr>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fraitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=radical">
-</div>
-<hr>
 
 <br>
 <footer align='center'>  <a href=''></a> </footer>
