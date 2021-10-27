@@ -41,7 +41,7 @@
 <h2> My GitHub Stats <img src='https://user-images.githubusercontent.com/82835870/130338282-5df4417d-7358-40cb-9ed1-9cab5b5a8ec8.png' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/rogeriop1990cv?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
+<hr>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fraitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=radical">
