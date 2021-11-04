@@ -36,12 +36,13 @@
 <a href = 'https://www.twitter.com/rogeriop1990cv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/rogeriop1990cv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<h2> My GitHub Stats <img src='https://user-images.githubusercontent.com/82835870/130338282-5df4417d-7358-40cb-9ed1-9cab5b5a8ec8.png' width='32px'> </h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<h2> My GitHub Stats <img src='https://user-images.githubusercontent.com/82835870/130338282-5df4417d-7358-40cb-9ed1-9cab5b5a8ec8.png' width='32px'> </h2>  
 
-<h2> My Wakatime Stats </h2>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriop1990cv&show_icons=true&theme=radical)
+
+<h2> My Wakatime Stats </h2>  
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rogeriop1990cv)](https://wakatime.com/@rogeriop1990cv)
-
 
 <br>
 <footer align='center'>  <a href=''></a> </footer>
