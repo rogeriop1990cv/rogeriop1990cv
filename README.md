@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Bem+Vindo+Ao+Meu++Perfil.)](https://git.io/typing-svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogeriop1990cv.rogeriop1990cv)
+[![wakatime](https://wakatime.com/badge/user/e7909a94-451b-4e60-8086-53d7373925ba.svg)](https://wakatime.com/@e7909a94-451b-4e60-8086-53d7373925ba)
 
 </p>
 <div size='20px'> Hi! My name is Rogerio P. Da Silva. Thank You for taking the time to view my GitHub Profile :smile: 
