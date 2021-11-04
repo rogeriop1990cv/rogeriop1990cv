@@ -37,7 +37,7 @@
 
 <h2> My GitHub Stats <img src='https://user-images.githubusercontent.com/82835870/130338282-5df4417d-7358-40cb-9ed1-9cab5b5a8ec8.png' width='32px'> </h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rogeriop1990cv)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rogeriop1990cv)])
 
 
 <br>
