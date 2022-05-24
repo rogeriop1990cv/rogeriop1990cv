@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on My Blog, Github Project
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
-
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
